@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" >Привет 👋 я Romà</h1>
-<p align="center" >my name c греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
+<h3 align="center" >my name c греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</h3>
 
 ## 🌱 Обо мне
 Я простой парень которому нравится проводить время в виртуальном мире и всегда нравилось клацать кнопки на компуктере для создания чего либо.  Всегда хотел иметь свой сайт, где будет рассказано обо мне так как я хочу.
@@ -16,7 +16,6 @@
   <img src="assets/gif/pw.gif" alt="Brian O'Conner">
 </div>
 
-#### ⚡Интересный факт — мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
 
 ## 💻Learning: 
 - [Frontend разработчик на HTML, CSS и JavaScript](https://stepik.org/course/113402/syllabus) 22.08.26 - now
@@ -32,6 +31,7 @@
 
 <img src="assets/gif/eng.gif" alt="english" title="english" />
 
+#### ⚡Интересный факт — мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
 
 
 <!--
