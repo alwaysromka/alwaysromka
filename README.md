@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="/alwaysromka/assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover; object-fit: contain;" alt="r32 GT-R">
+  <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover; object-fit: contain;" alt="r32 GT-R">
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="right">
-  <img src="/alwaysromka/assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
+  <img src="assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
 </div>
 
 ###
