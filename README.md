@@ -16,21 +16,21 @@
   <img src="assets/gif/pw.gif" alt="Brian O'Conner">
 </div>
 
-## ⚡Интересный факт — мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
+#### ⚡Интересный факт — мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
 
 ## 💻Learning: 
 - [Frontend разработчик на HTML, CSS и JavaScript](https://stepik.org/course/113402/syllabus) 22.08.26 - now
 - ✅[Тренажер по вёрстке, плагин Emmet](https://stepik.org/course/113654) 08.09.26 - 30.09.26
 
-## Tech stack который я изучаю
+## 🛠️ Tech stack который я изучаю
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" width="40" alt="HTML, CSS, JS" title="HTML, CSS, JS" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" title="HTML, CSS, JS" />
 
 **Languages**
 
-<img src="assets/gif/" alt="english" title="english" />
+<img src="assets/gif/eng.gif" alt="english" title="english" />
 
 
 
