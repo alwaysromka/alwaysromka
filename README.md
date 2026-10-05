@@ -25,7 +25,7 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" title="HTML, CSS, JS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=light" alt="HTML, CSS, JS, figma" title="HTML, CSS, JS, figma" />
 
 **Languages learning**
 
