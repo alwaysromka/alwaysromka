@@ -1,4 +1,36 @@
-## Hi there 👋
+<br clear="both">
+
+<div align="left">
+  <img src="/alwaysromka/assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover; object-fit: contain;" alt="r32 GT-R">
+</div>
+
+<div align="center">
+  <h1>Привет 👋 я Romà</h1>
+  <p>My name c греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
+</div>
+
+<div align="right">
+  <img src="/alwaysromka/assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
+</div>
+
+###
+
+<h2 align="left">🌱 Обо мне</h2>
+
+###
+
+<p align="left">Я простой парень которому нравится проводить время в виртуальном мире и всегда нравилось клацать кнопки на компуктере для создания чего либо.</p>
+
+###
+
+<h2 align="left">My technologies</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
 
 <!--
 **alwaysromka/alwaysromka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
