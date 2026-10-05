@@ -31,7 +31,10 @@
 
 <img src="assets/gif/eng.gif" alt="english" title="english" />
 
-#### ⚡Интересный факт — мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
+#### ⚡Интересные факты
+— мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
+- play videogames
+- listen to Danza kuduro on repeat
 
 
 <!--
