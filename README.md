@@ -4,7 +4,7 @@
   <tr style="border: none;">
     <!-- Левая гифка -->
     <td align="left" valign="middle" style="border: none; width: 250px;">
-      <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover;" alt="r32 GT-R">
+      <img src="assets/gif/r32gtr.gif" width="250" style="object-fit: cover;" alt="r32 GT-R">
     </td>
     <!-- Центральный текст -->
     <td align="center" valign="middle" style="border: none;">
