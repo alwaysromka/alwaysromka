@@ -50,7 +50,10 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 4. Eating Lay's Chips
 5. Watch as the car goes in a drift
 
-<img src="assets/gif/drift.gif" align="center" alt="drift" title="skyline drift">
+<div align="center">
+  <img src="assets/gif/drift.gif" alt="drift" title="skyline drift">
+</div>
+
 <!--
 **alwaysromka/alwaysromka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
