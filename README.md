@@ -1,18 +1,22 @@
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
-  <!-- Левая гифка -->
-  <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover;" alt="r32 GT-R">
-  
-  <!-- Блок с текстом -->
-  <div style="flex: 1; padding: 0 20px;">
-    <h1>Привет 👋 я Romà</h1>
-    <p>My name с греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
-  </div>
-  
-  <!-- Правая гифка -->
-  <img src="assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Левая гифка -->
+    <td align="left" valign="middle" style="border: none; width: 250px;">
+      <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover;" alt="r32 GT-R">
+    </td>
+    <!-- Центральный текст -->
+    <td align="center" valign="middle" style="border: none;">
+      <h1>Привет 👋 я Romà</h1>
+      <p>My name с греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
+    </td>
+    <!-- Правая гифка -->
+    <td align="right" valign="middle" style="border: none; width: 250px;">
+      <img src="assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
+    </td>
+  </tr>
+</table>
 
 ###
 
