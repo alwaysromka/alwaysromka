@@ -33,10 +33,24 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 
 #### ⚡Interesting facts
 - I like saga Fast and Furious & Vampire Diaries (as well as its sequels)
-- play videogames
-- listen to Danza kuduro on repeat
+- Listen to Danza kuduro on repeat
+- I like tattoos.
 
+## My tattoo
+<img src="assets/img/my_tattoo.png" height="300" alt="my tattoo" title="skull">
 
+## 📅Hobbies
+1. Play videogames
+    - Diablo 4
+    - WoW
+    - Minecraft
+    - Dota 2
+2. Play cards / UNO
+3. Drink Coca-Cola
+4. Eating Lay's Chips
+5. Watch as the car goes in a drift
+
+<img src="assets/gif/drift.gif" alt="drift" title="skyline drift">
 <!--
 **alwaysromka/alwaysromka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
