@@ -31,7 +31,7 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 
 <img src="assets/gif/eng.gif" alt="english" title="english" />
 
-#### ⚡Интересные факты
+#### ⚡Interesting facts
 - I like saga Fast and Furious & Vampire Diaries (as well as its sequels)
 - play videogames
 - listen to Danza kuduro on repeat
