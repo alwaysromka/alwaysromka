@@ -1,15 +1,16 @@
 <br clear="both">
 
-<div align="left">
-  <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover; object-fit: contain;" alt="r32 GT-R">
-</div>
-
-<div align="center">
-  <h1>Привет 👋 я Romà</h1>
-  <p>My name c греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
-</div>
-
-<div align="right">
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
+  <!-- Левая гифка -->
+  <img src="assets/gif/r32gtr.gif" height="250" width="250" style="object-fit: cover;" alt="r32 GT-R">
+  
+  <!-- Блок с текстом -->
+  <div style="flex: 1; padding: 0 20px;">
+    <h1>Привет 👋 я Romà</h1>
+    <p>My name с греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</p>
+  </div>
+  
+  <!-- Правая гифка -->
   <img src="assets/gif/pw.gif" height="250" width="250" alt="Brian O'Conner">
 </div>
 
