@@ -4,11 +4,11 @@
   <img src="assets/gif/r32gtr.gif" width="400" alt="skyline_fast_and_furios_two">
 </div>
 
-<h1 align="center" >Привет 👋 я Romà</h1>
-<h3 align="center" >my name c греч. Ρωμαϊκή — римлянин, римский (латинского происхождения)</h3>
+<h1 align="center" >Hello 👋 i Romà</h1>
+<h3 align="center" >my name from Greek. pωμαϊκή — Roman, Roman (Latin origin)</h3>
 
-## 🌱 Обо мне
-Я простой парень которому нравится проводить время в виртуальном мире и всегда нравилось клацать кнопки на компуктере для создания чего либо.  Всегда хотел иметь свой сайт, где будет рассказано обо мне так как я хочу.
+## 🌱 About me
+I'm a simple guy who likes spending time in the virtual world and has always liked clicking buttons on a computer to create something. I've always wanted to have my own website that tells the story about me the way I want it to be.
 
 <div align="center">
   <img src="assets/gif/pw.gif" alt="Brian O'Conner">
@@ -18,21 +18,21 @@
 
 
 ## 💻Learning: 
-- [Frontend разработчик на HTML, CSS и JavaScript](https://stepik.org/course/113402/syllabus) 22.08.26 - now
-- ✅[Тренажер по вёрстке, плагин Emmet](https://stepik.org/course/113654) 08.09.26 - 30.09.26
+- [Frontend developer in HTML, CSS and JavaScript](https://stepik.org/course/113402/syllabus) 22.08.26 - now
+- ✅[Layout simulator, Emmet plugin](https://stepik.org/course/113654) 08.09.26 - 30.09.26
 
-## 🛠️ Tech stack который я изучаю
+## 🛠️ The tech stack I'm studying
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" title="HTML, CSS, JS" />
 
-**Languages**
+**Languages learning**
 
 <img src="assets/gif/eng.gif" alt="english" title="english" />
 
 #### ⚡Интересные факты
-- мне нравится saga Fast and Furios & Vampire Diaries (а так же его сиквелы)
+- I like saga Fast and Furious & Vampire Diaries (as well as its sequels)
 - play videogames
 - listen to Danza kuduro on repeat
 
