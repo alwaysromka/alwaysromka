@@ -46,8 +46,8 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
     - Minecraft
     - Dota 2
 2. Play cards / UNO
-3. Drink Coca-Cola / <img src="assets/img/red_bull.png" height="20" alt="red bull" title="red bull">
-4. Eating Lay's chips with crab        <img src="assets/img/lays_crab.png" height="40" alt="lay's crab" title="lay's crab">
+3. Drink Coca-Cola / <img src="assets/img/red_bull.png" height="30" alt="red bull" title="Red Bull">
+4. Eating Lay's chips with crab <img src="assets/img/lays_crab.png" height="40" alt="Lay's Crab" title="lay's crab">
 5. Watch as the car goes in a drift
 
 <div align="center">
