@@ -35,6 +35,7 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 - I like saga Fast and Furious & Vampire Diaries (as well as its sequels)
 - Listen to Danza kuduro on repeat
 - I like tattoos.
+- <img src="assets/gif/leo.gif" height="50" alt="leo" title="leo">
 
 ## My tattoo
 <img src="assets/img/my_tattoo.png" height="300" alt="my tattoo" title="skull">
