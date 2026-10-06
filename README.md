@@ -35,6 +35,7 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
 - I like saga Fast and Furious & Vampire Diaries (as well as its sequels)
 - Listen to Danza kuduro on repeat
 - I like tattoos.
+- <img src="assets/gif/leo.gif" height="50" alt="leo" title="leo">
 
 ## My tattoo
 <img src="assets/img/my_tattoo.png" height="300" alt="my tattoo" title="skull">
@@ -44,7 +45,6 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
     - Diablo 4
     - WoW
     - Minecraft
-    - Dota 2
 2. Play cards / UNO
 3. Drink Coca-Cola / <img src="assets/img/red_bull.png" height="30" alt="red bull" title="Red Bull">
 4. Eating Lay's chips with crab <img src="assets/img/lays_crab.png" height="40" alt="Lay's Crab" title="lay's crab">
