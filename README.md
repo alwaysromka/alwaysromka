@@ -44,7 +44,6 @@ I'm a simple guy who likes spending time in the virtual world and has always lik
     - Diablo 4
     - WoW
     - Minecraft
-    - Dota 2
 2. Play cards / UNO
 3. Drink Coca-Cola
 4. Eating Lay's Chips
